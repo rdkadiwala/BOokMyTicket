@@ -3,6 +3,7 @@ Simple offline ticket booking project in c++. This project is created on the bas
 
 #How to use
 First you need to create some file which is used in fileio.
+
 1. adminsinfo.txt
 2. mmovieinfo.txt
 3. amovieinfo.txt
