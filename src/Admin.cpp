@@ -1,3 +1,7 @@
+/*
+ *	Author : Ravi Kadiwala
+ */
+
 #include "Admin.h"
 #include "Login.h"
 #include "MovieDetail.h"
@@ -122,10 +126,10 @@ void about(){
     cout<<"\t\t      Developed by :- \n"<<endl;
     cout<<"\t\t         Ravi Kadiwala  -->130420107029       " << endl;
     cout<<"\t-----------------------------------------------------------------\n"<<endl;
-    cout<<"\t\t      Supporters :- \n"<<endl;
-    cout<<"\t\t         Harsh Kapadia  -->130420107030       " << endl;
-    cout<<"\t\t         Het Mehta      -->130420107034       " << endl;
-    cout<<"\t\t         Pratik Bodawala-->130420107008       " << endl;
+    cout<< endl;
+    cout<< endl;
+    cout<< endl;
+    cout<< endl;
     cout<<"\t-----------------------------------------------------------------\n"<<endl;
     cout<<"\t\tGoto Administration Panel.(1-yes / 0-no) : ",cin>>choi;
     if(choi != 0)

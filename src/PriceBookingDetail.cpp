@@ -1,3 +1,7 @@
+/*
+ *	Author : Ravi Kadiwala
+ */
+
 #include<iostream>
 #include<fstream>
 #include<cstdlib>

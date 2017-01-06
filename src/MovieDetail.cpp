@@ -1,3 +1,7 @@
+/*
+ *	Author : Ravi Kadiwala
+ */
+
 #include "MovieDetail.h"
 #include "Login.h"
 #include "PriceBookingDetail.h"

@@ -1,3 +1,7 @@
+/*
+ *	Author : Ravi Kadiwala
+ */
+
 #ifndef MOVIEDETAIL_H
 #define MOVIEDETAIL_H
 

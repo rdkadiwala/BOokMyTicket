@@ -1,3 +1,7 @@
+/*
+ *	Author : Ravi Kadiwala
+ */
+
 #ifndef PRICEBOOKINGDETAIL_H
 #define PRICEBOOKINGDETAIL_H
 
